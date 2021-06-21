@@ -8,6 +8,6 @@ button:
 intro:
   desc: Opinionated Vite Starter Template
   dynamic-route: Demo of dynamic route
-  hi: Hi, {name}!
+  hi: Hello, {name}!
   whats-your-name: What's your name?
 not-found: Not found
